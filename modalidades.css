@@ -1,0 +1,43 @@
+.musculacao{
+    background-color: #f1e7e7;;
+    width: 70%; /* ou qualquer largura desejada */
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+.imgcategorias{
+    width: 100%;
+    height: 60vh;
+}
+h4,h2,h3{
+    color: black;
+}
+li{
+    color: black;
+    
+}
+.footertxt{
+    color: white;
+}
+footer {
+    background-color: rgb(63, 50, 50);
+    color: #fff;
+    text-align: center;
+    padding: 3px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.bloco2{
+    background-color: rgb(63, 50, 50);
+    width: 98%; /* ou qualquer largura desejada */
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    color: #fff;
+    
+}
+.txtbloco2{
+    color: #f1e7e7;
+}
